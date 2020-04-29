@@ -1,0 +1,24 @@
+/Users/michaelm/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/michaelm/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/michaelm/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/michaelm/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/michaelm/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/michaelm/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/michaelm/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/michaelm/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/michaelm/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/michaelm/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/michaelm/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/michaelm/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache
+/Users/michaelm/dotnet projects/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/michaelm/dotnet projects/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/michaelm/dotnet projects/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/michaelm/dotnet projects/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/michaelm/dotnet projects/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/michaelm/dotnet projects/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/michaelm/dotnet projects/myApp/obj/Debug/netcoreapp3.1/myApp.csproj.CoreCompileInputs.cache
+/Users/michaelm/dotnet projects/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/michaelm/dotnet projects/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/michaelm/dotnet projects/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/michaelm/dotnet projects/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
+/Users/michaelm/dotnet projects/myApp/obj/Debug/netcoreapp3.1/myApp.genruntimeconfig.cache

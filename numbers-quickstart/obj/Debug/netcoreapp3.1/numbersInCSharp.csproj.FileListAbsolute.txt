@@ -1,0 +1,12 @@
+/Users/michaelm/dotnet projects/numbers-quickstart/bin/Debug/netcoreapp3.1/numbersInCSharp.deps.json
+/Users/michaelm/dotnet projects/numbers-quickstart/bin/Debug/netcoreapp3.1/numbersInCSharp.runtimeconfig.json
+/Users/michaelm/dotnet projects/numbers-quickstart/bin/Debug/netcoreapp3.1/numbersInCSharp.runtimeconfig.dev.json
+/Users/michaelm/dotnet projects/numbers-quickstart/bin/Debug/netcoreapp3.1/numbersInCSharp.dll
+/Users/michaelm/dotnet projects/numbers-quickstart/bin/Debug/netcoreapp3.1/numbersInCSharp.pdb
+/Users/michaelm/dotnet projects/numbers-quickstart/obj/Debug/netcoreapp3.1/numbersInCSharp.csprojAssemblyReference.cache
+/Users/michaelm/dotnet projects/numbers-quickstart/obj/Debug/netcoreapp3.1/numbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/michaelm/dotnet projects/numbers-quickstart/obj/Debug/netcoreapp3.1/numbersInCSharp.AssemblyInfoInputs.cache
+/Users/michaelm/dotnet projects/numbers-quickstart/obj/Debug/netcoreapp3.1/numbersInCSharp.AssemblyInfo.cs
+/Users/michaelm/dotnet projects/numbers-quickstart/obj/Debug/netcoreapp3.1/numbersInCSharp.dll
+/Users/michaelm/dotnet projects/numbers-quickstart/obj/Debug/netcoreapp3.1/numbersInCSharp.pdb
+/Users/michaelm/dotnet projects/numbers-quickstart/obj/Debug/netcoreapp3.1/numbersInCSharp.genruntimeconfig.cache

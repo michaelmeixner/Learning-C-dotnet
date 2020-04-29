@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/SampleBinaryClassification.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/SampleBinaryClassification.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/SampleBinaryClassification.ConsoleApp.csproj",
+        "projectName": "SampleBinaryClassification.ConsoleApp",
+        "projectPath": "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/SampleBinaryClassification.ConsoleApp.csproj",
+        "packagesPath": "/Users/michaelm/.nuget/packages/",
+        "outputPath": "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michaelm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/SampleBinaryClassification.Model.csproj": {
+                "projectPath": "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/SampleBinaryClassification.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/SampleBinaryClassification.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/SampleBinaryClassification.Model.csproj",
+        "projectName": "SampleBinaryClassification.Model",
+        "projectPath": "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/SampleBinaryClassification.Model.csproj",
+        "packagesPath": "/Users/michaelm/.nuget/packages/",
+        "outputPath": "/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/michaelm/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.deps.json
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.csprojAssemblyReference.cache
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.csproj.CoreCompileInputs.cache
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.AssemblyInfoInputs.cache
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.AssemblyInfo.cs
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/Users/michaelm/dotnet projects/myMLApp/SampleBinaryClassification/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
